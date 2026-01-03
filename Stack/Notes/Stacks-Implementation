@@ -1,6 +1,6 @@
 // Stack implementation using ArrayList
 // Author: Rupesh Katariya
-// Date: Nov 2025
+// Date: jan 26
 
 import java.util.ArrayList;
 public class StackExample {
